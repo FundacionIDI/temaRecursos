@@ -1,0 +1,12 @@
+{
+    "name": "fundacionidi/tema-recursos",
+    "description": "Tema para Extidi",
+    "authors": [
+        {
+            "name": "jedabero",
+            "email": "jberdugo@imasdemasi.org"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

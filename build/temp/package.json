@@ -1,0 +1,11 @@
+{
+  "name": "temaRecursos",
+  "format": "1",
+  "version": "1.0.0",
+  "creator": "I+D+I",
+  "summary": "I+D+I",
+  "detailedDescription": "I+D+I",
+  "type": "theme",
+  "extend": "ext-theme-neptune",
+  "local": true
+}
